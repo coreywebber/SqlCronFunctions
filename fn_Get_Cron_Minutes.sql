@@ -1,4 +1,4 @@
-CREATE FUNCTION Ops.fn_Get_Scheduled_Minutes 
+CREATE FUNCTION dbo.fn_Get_Scheduled_Minutes 
 (
     @STRING VARCHAR (255)
 ) 
